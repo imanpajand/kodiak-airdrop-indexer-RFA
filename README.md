@@ -25,4 +25,6 @@ As of our snapshot, here's the points distribution:
  - 9 points  | 17
  - 10 points | 37
 
+
    IF YOU HAVE MORE THAN 4 POINT YOU'LL BE ELIGIBLE FOR RFA AIRDROP AND IT'S FINAL LIST!
+   https://github.com/imanpajand/kodiak-airdrop-indexer-RFA-/blob/main/final_output.csv
